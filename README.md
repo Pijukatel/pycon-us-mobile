@@ -49,6 +49,10 @@ See [CONTRIBUTING.md](https://github.com/ionic-team/ionic-conference-app/blob/ma
 
 1. Run `ionic cap run android --prod`
 
+The app supports Android 13 (API 33) and newer. Prebuilt APKs for
+sideloading on devices that can't reach the Play Store are attached to
+each entry on the [GitHub Releases page](https://github.com/Pijukatel/pycon-us-mobile/releases).
+
 ### iOS
 
 1. Run `ionic cap run ios --prod`
